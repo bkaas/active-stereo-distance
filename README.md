@@ -16,4 +16,5 @@ Its operation is managed by a Raspberry Pi Model B+ using a bash script titled s
 Images are captured using fswebcam and two Microsoft Lifecam 3000-HD webcams.  The images are then processed in process.py.  Finally, the stepper motor turns the apparatus using stepper.py.
 
 Sample output of mapping the interior of a room:
+
 ![room plot](http://i.imgur.com/aqwaQT4.jpg)
