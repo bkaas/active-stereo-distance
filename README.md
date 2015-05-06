@@ -7,3 +7,10 @@ Using simple trigonometry, a triangle can be constructed with the two cameras an
 To determine the inner angles of the triangle:
 
 ![equation](http://i.imgur.com/oIaLle3.jpg)
+
+The device is held together using 3D printed parts and laser-cut acrylic.
+
+![apparatus](http://i.imgur.com/V0C60wQ.png)
+
+Its operation is managed by a Raspberry Pi Model B+ using a bash script titled scan.sh, with one input for the images' filenames.
+Images are captured using fswebcam and two Microsoft Lifecam 3000-HD webcams.  The images are then processed in process.py.  Finally, the stepper motor turns the apparatus using stepper.py.
