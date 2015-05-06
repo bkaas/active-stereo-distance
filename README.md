@@ -14,3 +14,6 @@ The device is held together using 3D printed parts and laser-cut acrylic.
 
 Its operation is managed by a Raspberry Pi Model B+ using a bash script titled scan.sh, with one input for the images' filenames.
 Images are captured using fswebcam and two Microsoft Lifecam 3000-HD webcams.  The images are then processed in process.py.  Finally, the stepper motor turns the apparatus using stepper.py.
+
+Sample output of mapping the interior of a room:
+![room plot](http://i.imgur.com/aqwaQT4.jpg)
