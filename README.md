@@ -1,4 +1,4 @@
-#Active Stereoscopic Distance Measurement
+# Active Stereoscopic Distance Measurement
 
 Figure 1: Display of Concept
 ![display of concept](http://i.imgur.com/a6WHJRa.png)
